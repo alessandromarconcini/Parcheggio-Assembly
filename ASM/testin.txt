@@ -1,0 +1,16 @@
+A-18
+B-29
+C-7
+IN-A
+IN-B
+OUT-C
+IN-B
+OUT-A
+OUT-C
+IN-B
+OUT-B
+IN-B
+OUT-A
+OUT-d
+INT-A
+in-a
